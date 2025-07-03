@@ -2,6 +2,8 @@
 ## 📜 Description
 ### Finance Tracker is an advanced, desktop-based Personal Finance Management Application built using Java (Swing) and backed by a MySQL database.  Designed for individuals looking to take control of their finances, it provides a seamless and intuitive interface for tracking Income, Expenses, Budgets, and Investments — all in one place.With its user-friendly dashboards, graphical insights, and export options Finance Tracker makes personal finance management simple, visual, and effective.
 
+---
+
 ## 🚀 Features
 ### 🔐 User Registration & Login
 ### Register new users with unique usernames and passwords.
@@ -68,6 +70,7 @@
 ### Form validation to prevent invalid entries.
 ### Modular codebase for easy maintenance and future feature expansion.
 
+---
 
 ## 💻 Installation
 ## 1️⃣ Clone the repository:
@@ -120,6 +123,8 @@ Run the following command from the project root (adjust JAR paths if needed):
 #### Import as a Java Project.
 #### Add external libraries (JAR files) to the project's dependencies.
 #### Set RegisterForm or LoginPage as the main class.
+
+--- 
 
 ## 🛠️ Features in Detail
 ### The Finance Tracker is a comprehensive desktop application designed for efficient financial management. It offers the following core features:
@@ -211,6 +216,8 @@ Run the following command from the project root (adjust JAR paths if needed):
 ### Full CRUD operations (Create, Read, Update, Delete) for Budgets, Expenses, and Investments.
 ### Professional error handling and input validations.
 
+--- 
+
 ## 🤝 Contributing
 ### 1️⃣ Fork the repository.
 ### 2️⃣ Create a new branch (e.g., git checkout -b feature-branch).
@@ -219,8 +226,12 @@ Run the following command from the project root (adjust JAR paths if needed):
 ### 5️⃣ Push to your fork (e.g., git push origin feature-branch).
 ### 6️⃣ Submit a pull request describing your changes and the purpose of the contribution.
 
+---
+
 ## 💡 Feedback
 ### If you have suggestions or encounter any issues, feel free to open an issue  or pull request for bugs, improvements, or suggestions! on the repository or reach out directly.
+
+---
 
 ## ⚠️ Limitations
 ### 🔹 No Cloud Integration
@@ -235,5 +246,6 @@ Run the following command from the project root (adjust JAR paths if needed):
 ### 🔹 No Mobile or Cross-Platform Support
 ### The application is designed for desktop use (Java Swing) and doesn't have mobile or web versions.
 
+---
 
 ## Thank you for checking out the Finance Tracker! 🎉
